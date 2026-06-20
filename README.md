@@ -13,7 +13,7 @@ This repository contains my LeetCode problem solutions, created to strengthen my
 
 ## 🛠 Languages Used
 - Java
-- Python
+- C
 
 ---
 
